@@ -11,7 +11,7 @@ I take pride in my diverse skill set that allows me to tackle complex problems a
 
 
 
-- 🔭 I’m currently working as a Data Science Trainee.
+- 🔭 I’m currently working as a Data Science Intern.
 - 🌱 I’m currently learning Data Science.
 - 🤔 I’m looking for a opportunity to utilize my skills.
 - 💬 Ask me about my skills.
