@@ -21,3 +21,4 @@ I take pride in my diverse skill set that allows me to tackle complex problems a
 
 [![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshavagabond)](https://github.com/niteshavagabond/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=niteshavagabond&theme=dark)](https://git.io/streak-stats)
