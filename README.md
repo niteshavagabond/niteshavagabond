@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=niteshavagabond&theme=dark)
 
+![J5A](https://user-images.githubusercontent.com/109466869/232714714-aecf55bc-703c-44cf-a9ff-a68542bf872c.gif)
+
 #### About me
 
 I take pride in my diverse skill set that allows me to tackle complex problems and provide data-driven solutions. I am well-versed in data cleaning and preprocessing techniques, ensuring the accuracy and reliability of my results. Overall, my skills in data science enable me to leverage data to drive better decision-making and provide impactful solutions to real-world problems.
