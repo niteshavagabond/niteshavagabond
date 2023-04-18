@@ -9,9 +9,15 @@ I take pride in my diverse skill set that allows me to tackle complex problems a
 
 
 
+
 - 🔭 I’m currently working as a Data Science Trainee.
 - 🌱 I’m currently learning Data Science.
 - 🤔 I’m looking for a opportunity to utilize my skills.
 - 💬 Ask me about my skills.
 - 📫 How to reach me: niteshavagabond@gmail.com
 - 😄 Have a good day.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshavagabond&layout=compact)](https://github.com/niteshavagabond/github-readme-stats)
+
+[![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshavagabond)](https://github.com/niteshavagabond/github-readme-stats)
+
