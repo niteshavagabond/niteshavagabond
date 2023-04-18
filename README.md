@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Nitesh Verma
 
+![](https://komarev.com/ghpvc/?username=niteshavagabond&theme=dark)
 
 #### About me
 
@@ -17,8 +18,8 @@ I take pride in my diverse skill set that allows me to tackle complex problems a
 - 📫 How to reach me: niteshavagabond@gmail.com
 - 😄 Have a good day.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshavagabond&layout=compact)](https://github.com/niteshavagabond/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshavagabond&layout=compact&theme=dark)](https://github.com/niteshavagabond/github-readme-stats)
 
-[![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshavagabond)](https://github.com/niteshavagabond/github-readme-stats)
+![Nitesh verma's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshavagabond&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=niteshavagabond&theme=dark)](https://git.io/streak-stats)
